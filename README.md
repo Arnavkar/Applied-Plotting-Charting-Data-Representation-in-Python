@@ -5,7 +5,7 @@ Coursera Materials for Applied Plotting, Charting &amp; Data Representation in P
 ## Week 4 - Final Assignment
 - I created an interactive geographical heat-map of the 'religious density' of different religious groups in each county in Michigan State. Visually, this could be used to compare the prevalence of any religious group in Ann Arbor (Washtenaw County) to any other state. This was built using Geopandas, ipywidgets and interfacing with Google's Geocoding API to pull coordinates for each county in Michigan State. 
 
-- TODO -> some problems of data mapping for specific religions chosen in th dropdown (need to investigate further)
+- TODO -> some problems of data mapping for specific religions chosen in the dropdown menu (need to investigate further)
 
 Link to Religious Data : http://www.thearda.com/Archive/Files/Descriptions/RCMSMGCY.asp
 
