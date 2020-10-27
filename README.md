@@ -8,6 +8,7 @@ Coursera Materials for Applied Plotting, Charting &amp; Data Representation in P
 - TODO -> some problems of data mapping for specific religions chosen in th dropdown (need to investigate further)
 
 Link to Religious Data : http://www.thearda.com/Archive/Files/Descriptions/RCMSMGCY.asp
+
 Link to geographical data of michigan counties: https://gis-michigan.opendata.arcgis.com/datasets/counties-v17a6
 
 ## Week 3 - Charting Fundamentals 
