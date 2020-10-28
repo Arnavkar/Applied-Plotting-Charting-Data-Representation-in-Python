@@ -5,6 +5,8 @@ Coursera Materials for Applied Plotting, Charting &amp; Data Representation in P
 ## Week 4 - Final Assignment
 - I created an interactive geographical heat-map of the 'religious density' of different religious groups in each county in Michigan State. Visually, this could be used to compare the prevalence of any religious group in Ann Arbor (Washtenaw County) to any other state. This was built using MPL/Seaborn,  Geopandas, ipywidgets and interfacing with Google's Geocoding API to pull coordinates for each county in Michigan State. 
 
+<img src="https://github.com/Arnavkar/Applied-Plotting-Charting-Data-Representation-in-Python/blob/main/img/Final.png">
+
 - TODO -> some problems of data mapping for specific religions chosen in the dropdown menu (need to investigate further)
 
 Link to Religious Data : http://www.thearda.com/Archive/Files/Descriptions/RCMSMGCY.asp
@@ -16,7 +18,14 @@ Link to geographical data of michigan counties: https://gis-michigan.opendata.ar
 - Histograms with various distributions, Box Plots, Heatmaps
 - Animations, interactivity with mplconnect
 - Practice - Understanding distributions through sampling (Refer to notebook of the same name)
+
+<img src="https://github.com/Arnavkar/Applied-Plotting-Charting-Data-Representation-in-Python/blob/main/img/Practice.png" width="800" height="550">
+
 - Assignment - Building a custom visualization (Hardest difficulty) (Refer to Assignment3.ipynb)
+
+<img src="https://github.com/Arnavkar/Applied-Plotting-Charting-Data-Representation-in-Python/blob/main/img/3.png" width="600" height="600">
+
+
 
 ## Week 2 - Basic Charting in Matplotlib (pyplot)
 - Introduction to basic plotting in matplotlib
